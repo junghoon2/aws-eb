@@ -1,2 +1,2 @@
-# aws-eb
-aws eb test
+# aws-eb-test
+aws eb test 
